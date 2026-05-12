@@ -1,0 +1,9 @@
+# Fourier N1 开源资料 (大型CAD/工程文件，不适合纳入代码仓库)
+Fourier-N1开源资料/
+
+# CAD 临时文件
+*.CWR
+*.hdr
+*.HDR
+*.p2m
+*.p2s
